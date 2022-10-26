@@ -2,6 +2,8 @@
 
 Schreib ein Programm, dass eine ASCII Animation macht!
 
+Tip: Benutzt [Diese Website (https://fsymbols.com/generators/carty/)](https://fsymbols.com/generators/carty/) um die Strings für die Separaten Bilder zu holen.
+
 Eingang Beispiel:
 
     String[] frames = new String[]{
