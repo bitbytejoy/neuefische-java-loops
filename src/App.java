@@ -1,7 +1,9 @@
 public class App {
     public static void main(String[] args) {
-        for (int starCount = 0; starCount < 3; starCount++) {
-            System.out.print("*");
+        int[] numbers = new int[]{ 1, 2, 3, 4, 5 };
+
+        for (int number : numbers) {
+            System.out.println(number);
         }
     }
 }
