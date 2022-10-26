@@ -1,28 +1,12 @@
-# 1 Plus?
+# Positivität
 
-Schreib ein Programm, dass 1 zu jeder Nummer in einer Reihe addiert!
+Schreib ein Programm, dass nur die positiven Nummern aus einer Reihe schreibt!
 
 Eingang Beispiel:
 
-    int[] numbers = new int[]{ 1, 2, 3, 4, 5 };
+    int[] numbers = new int[]{ -1, 2, -3, 4, -5 };
 
 Ausgang Beispiel:
 
     2
-    3
     4
-    5
-    6
-
----
-
-Eingang Beispiel:
-
-    int[] numbers = new int[]{ 3, 4, 1, 5 };
-
-Ausgang Beispiel:
-
-    4
-    5
-    2
-    6
