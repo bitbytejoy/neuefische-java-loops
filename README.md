@@ -1,21 +1,14 @@
-# Anagramm
+# Sternen-Viereck
 
-Schreib ein Programm das prüft, ob ein Wort ein Anagramm ist!
-
-Eingang Beispiel:
-
-    String word = "anna";
-
-Ausgang Beispiel:
-
-    Ja
-
----
+Schreib ein Programm, dass mit einer definierten Breite und Höhe ein Sternen-Viereck zeichnet!
 
 Eingang Beispiel:
 
-    String word = "hello";
+    int width = 10;
+    int height = 3;
 
 Ausgang Beispiel:
 
-    Nein
+    **********
+    **********
+    **********

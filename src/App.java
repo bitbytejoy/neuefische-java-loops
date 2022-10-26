@@ -1,20 +1,13 @@
 public class App {
     public static void main(String[] args) {
-        String word = "anna";
-        char[] characters = word.toCharArray();
+        int width = 10;
+        int height = 3;
 
-        boolean isAnagram = true;
-        for (int i = 0; i < characters.length; i++) {
-            if (characters[i] != characters[characters.length - 1 - i]) {
-                isAnagram = false;
-                break;
+        for (int i = 0; i < height; i++) {
+            for (int j = 0; j < width; j++) {
+                System.out.print("*");
             }
-        }
-
-        if (isAnagram) {
-            System.out.println("Ja");
-        } else {
-            System.out.println("Nein");
+            System.out.println();
         }
     }
 }
