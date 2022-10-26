@@ -1,6 +1,6 @@
-# 3 Sterne (while)
+# 3 Sterne (do-while)
 
-Schreib ein Programm, dass 3 Sterne zeichet! Benutze while.
+Schreib ein Programm, dass 3 Sterne zeichet! Benutze do-while.
 
 Ausgang Beispiel:
 
