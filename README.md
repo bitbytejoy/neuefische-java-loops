@@ -1,4 +1,4 @@
-# 10 Sterne
+# 100 Sterne
 
 Schreib ein Programm, dass 100 Sterne zeichnet!
 
