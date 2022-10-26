@@ -1,7 +1,7 @@
 # 10 Sterne
 
-Schreib ein Programm, dass 10 Sterne zeichnet!
+Schreib ein Programm, dass 100 Sterne zeichnet!
 
 Ausgang Beispiel:
 
-    **********
+    ****************************************************************************************************
