@@ -1,9 +1,7 @@
-# 10 Sterne
+# 3 Sterne
 
-Schreib ein Programm, dass unendlich Sterne zeichnet!
+Schreib ein Programm, dass 3 Sterne zeichet! Benutze while.
 
 Ausgang Beispiel:
 
-    ******************************************************
-
-Es sollte nie aufhören. Solange das Programm läuft, sollten neue Sterne gezeichnet werden.
+    ***
