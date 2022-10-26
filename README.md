@@ -1,19 +1,21 @@
-# Ich sehe alles dreifach
+# Anagramm
 
-Schreib ein Programm, dass jede Nummer in einer Reihe 3-mal schreibt!
+Schreib ein Programm das prüft, ob ein Wort ein Anagramm ist!
 
 Eingang Beispiel:
 
-    int[] numbers = new int[]{ 1, 2, 3 };
+    String word = "anna";
 
 Ausgang Beispiel:
 
-    1
-    1
-    1
-    2
-    2
-    2
-    3
-    3
-    3
+    Ja
+
+---
+
+Eingang Beispiel:
+
+    String word = "hello";
+
+Ausgang Beispiel:
+
+    Nein
