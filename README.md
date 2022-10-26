@@ -55,6 +55,14 @@ können.
         System.out.println("*");
     } while(true);
 
+### Wie wird eine Schleife abgebrochen?
+
+    break
+
+### Wie wird eine Wiederholung in der Schleife übersprungen?
+
+    continue
+
 ### Wie werden Schleifen von Profis verwendet?
 
 Schleifen Anwendungen können in folgende Kategorien eingeordnet werden:
