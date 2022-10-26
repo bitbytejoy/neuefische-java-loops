@@ -1,9 +1,7 @@
 public class App {
     public static void main(String[] args) {
-        int starCount = 0;
-        do {
+        for (int starCount = 0; starCount < 3; starCount++) {
             System.out.print("*");
-            starCount++;
-        } while(starCount < 3);
+        }
     }
 }
