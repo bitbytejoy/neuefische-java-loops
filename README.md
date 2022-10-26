@@ -1,4 +1,4 @@
-# 3 Sterne
+# 3 Sterne (while)
 
 Schreib ein Programm, dass 3 Sterne zeichet! Benutze while.
 
