@@ -1,12 +1,11 @@
-# Positivität
+# Summe
 
-Schreib ein Programm, dass nur die positiven Nummern aus einer Reihe schreibt!
+Schreib ein Programm, dass eine Reihe von Nummern summiert!
 
 Eingang Beispiel:
 
-    int[] numbers = new int[]{ -1, 2, -3, 4, -5 };
+    int[] numbers = new int[]{ 1, 2, 3, 4 };
 
 Ausgang Beispiel:
 
-    2
-    4
+    10
