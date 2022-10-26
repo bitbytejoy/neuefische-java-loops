@@ -41,6 +41,20 @@ können.
         System.out.println(word);
     }
 
+### Die spezielle Schleife, unendliche Schleife
+
+    for (;;) {
+        System.out.println("*");
+    }
+    
+    while (true) {
+        System.out.println("*");
+    }
+    
+    do {
+        System.out.println("*");
+    } while(true);
+
 ### Wie werden Schleifen von Profis verwendet?
 
 Schleifen Anwendungen können in folgende Kategorien eingeordnet werden:
