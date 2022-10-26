@@ -1,6 +1,6 @@
-# Wo ist die 1?
+# 1 Plus?
 
-Schreib ein Programm, dass uns sagt an welcher Stelle die Nummer 1 in einer Reihe von Nummer vorkommt!
+Schreib ein Programm, dass 1 zu jeder Nummer in einer Reihe addiert!
 
 Eingang Beispiel:
 
@@ -8,24 +8,21 @@ Eingang Beispiel:
 
 Ausgang Beispiel:
 
-    0
-
----
-
-Eingang Beispiel:
-
-    int[] numbers = new int[]{ 2, 3, 4, 1, 5 };
-
-Ausgang Beispiel:
-
+    2
     3
+    4
+    5
+    6
 
 ---
 
 Eingang Beispiel:
 
-    int[] numbers = new int[]{ 2, 3, 4, 5 };
+    int[] numbers = new int[]{ 3, 4, 1, 5 };
 
 Ausgang Beispiel:
 
-    -1
+    4
+    5
+    2
+    6
