@@ -1,4 +1,4 @@
-# 10 Sterne
+# Unendliche Sterne
 
 Schreib ein Programm, dass unendlich Sterne zeichnet!
 
